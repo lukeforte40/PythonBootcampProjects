@@ -1,0 +1,1 @@
+Some old python projects from a python bootcamp I took for a few weeks in Aug. - Sept. 2019.
